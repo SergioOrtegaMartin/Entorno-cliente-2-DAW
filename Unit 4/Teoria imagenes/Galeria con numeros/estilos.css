@@ -1,0 +1,21 @@
+.texto{
+    position: absolute;
+    top: 25px;
+    left: 400px;
+    font: 150% sans-serif;
+
+}
+
+.botoniz{
+    position: absolute;
+    top: 200px;
+    left: 10px;
+}
+
+.botonde{
+    position: absolute;
+    top: 200px;
+    left: 400px;
+}
+.punto{
+    width: 200px;}
