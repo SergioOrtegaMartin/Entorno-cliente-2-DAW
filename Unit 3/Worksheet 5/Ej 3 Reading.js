@@ -63,10 +63,6 @@ class BookList{
     siguientelibro = () =>this.librosnoleidos[0];
     libroactual = () => this.currentbook;
     ultimolibroleido = () => this.librosleidos[0];
-        
-        
-    
-    
 }
 
 class Book{
